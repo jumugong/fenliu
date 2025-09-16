@@ -1,4 +1,9 @@
 # 代理补充列表
+DOMAIN-SUFFIX,cn.pornhub.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
